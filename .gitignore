@@ -7,3 +7,4 @@
 /captures
 test-server/build
 .idea/
+target/
